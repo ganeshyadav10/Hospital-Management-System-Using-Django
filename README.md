@@ -20,6 +20,12 @@ Django
 My SQL 5.5
 Google Chrome Browse
 ![image](https://github.com/ganeshyadav10/Hospital-Management-System-Using-Django/assets/126311739/ab11f548-7a29-4578-b6d1-2fa8eb27a1d1)
+![image](https://github.com/ganeshyadav10/Hospital-Management-System-Using-Django/assets/126311739/cf7329ed-187a-41b0-8696-ec5c5d3e2660)
+![image](https://github.com/ganeshyadav10/Hospital-Management-System-Using-Django/assets/126311739/bebc984b-bae3-47d1-bc3e-53fd46ca1cc7)
+![image](https://github.com/ganeshyadav10/Hospital-Management-System-Using-Django/assets/126311739/6708735b-e5a3-417f-bfa1-4655520cd172)
+
+
+
 
 
 
