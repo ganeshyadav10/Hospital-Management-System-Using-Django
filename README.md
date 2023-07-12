@@ -1,7 +1,7 @@
 # Hospital-Management-System-Using-Django
 Computers give us information; they engage us and help us in a lot of manners. A chatbot is a program intended to counterfeit smart communication on a text or speech. Yet, this paper concentrates only on text.
 The response to the question will be replied based on the user query and knowledge base. The significant keywords are fetched from the sentence and answer to those sentences. If the match is discovered or the significant, answer will be given or similar answers will be displayed
-![image](https://github.com/ganeshyadav10/Hospital-Management-System-Using-Django/assets/126311739/f7332024-3a2e-4c5d-a097-19cf458b4a40)
+
 MODULES:
 Admin: 
 	admin can login to application by using username and password as ‘admin’ and then add new doctor details and give login details to all doctors. Admin will record all in-patient details and give ID to each patient. Admin will view all investigations and prescription given by doctor and can give details on insurance
